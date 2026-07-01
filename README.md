@@ -13,8 +13,12 @@ Electronics Developer focused on embedded systems and automotive electronics.
 
 ## Technologies
 
-- C / C++
+- C
 - ST
+- LabView
+- VeriStand
+- PEAK Systems tools
+- VECTOR tools
 - Git
 - CAN SAE J1939
 - LIN
