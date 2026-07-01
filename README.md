@@ -1,5 +1,5 @@
 
- Hi, I'm Frantisek Cermak 👋
+ Hi, I'm Frantisek Cermak
 
 Electronics Developer focused on embedded systems and automotive electronics.
 
