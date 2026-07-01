@@ -22,7 +22,7 @@ Electronics Developer focused on embedded systems and automotive electronics.
 - Git
 - CAN SAE J1939
 - LIN
-- Electronics Design
+- Electronics Design and Testing 
 - Azure DevOps
 
 ## Connect with Me
