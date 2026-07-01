@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**fcermak/fcermak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Frantisek Cermak 👋
 
-Here are some ideas to get you started:
+Electronics Developer focused on embedded systems and automotive electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Embedded Systems Development
+- Automotive ECU Development
+- Firmware Engineering
+- Learning modern software development practices
+- Software Define Vehicle trends [SDV]
+
+## Technologies
+
+- C / C++
+- ST
+- Git
+- CAN SAE J1939
+- LIN
+- Electronics Design
+
+## Connect with Me
+
+- GitHub: https://github.com/fcermak
